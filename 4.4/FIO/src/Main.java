@@ -29,7 +29,7 @@ public class Main {
             System.out.println("Некорректный ввод");
         }
     }
-
+ 
 
     private static boolean searchWord(String inputName) {
         int numberOfWords = inputName.length();
